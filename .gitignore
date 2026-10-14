@@ -480,3 +480,6 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+# Lokala filer som inte ska skickas till GitHub
+jobs.json
+ProgramBackup.txt
